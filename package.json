@@ -2,7 +2,7 @@
   "name": "greenify-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lucyod10.github.io/greenify-client/",
+  "homepage": "https://pkijowska.github.io/greenify-client/",
   "dependencies": {
     "axios": "^0.19.0",
     "cloudinary-react": "^1.1.4",
