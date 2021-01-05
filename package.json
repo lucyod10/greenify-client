@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://pkijowska.github.io/greenify-client/",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cloudinary-react": "^1.1.4",
     "gh-pages": "^2.1.1",
     "jquery": "^3.4.1",
